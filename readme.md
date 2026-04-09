@@ -29,13 +29,6 @@
 
 ---
 
-## ⚡ Getting Started (Local Setup)
-Follow these steps to run the project locally:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/payoo-app.git
-
 ## Features 
 - **Simple Login Interface** - Secure authentication with username and password
 - **Home Dashboard** - View account balance and quick access to all services
@@ -84,9 +77,10 @@ Follow these steps to run the project locally:
     
 </table>
 
-## How to use
+## ⚡ Getting Started (Local Setup)
+Follow these steps to run the project locally:
 
-### 1. Clone the Repository
+1. **Clone the repository**
 
 ```bash
 git clone https://github.com/Kz-Himel/Payoo-app
